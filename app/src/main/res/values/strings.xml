@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PacManScoringApp</string>
+    <string name="pacman_game_screen">pacman game screen</string>
+    <string name="pac_man">Pac-Man</string>
+    <string name="pacman_image">pacman image</string>
+    <string name="pacman_ghosts">pacman ghosts</string>
+    <string name="_0">0</string>
+    <string name="pac_dot_10">Pac-Dot +10</string>
+    <string name="ghosts_200">Ghosts +200</string>
+    <string name="cherry_100">Cherry +100</string>
+    <string name="_1_life_100">-1 Life +100</string>
+    <string name="_2_lives_200">-2 Lives +200</string>
+    <string name="no_lives_left">No Lives Left</string>
+    <string name="play_again">Play Again</string>
+    <string name="ghosts">Ghosts</string>
+</resources>
